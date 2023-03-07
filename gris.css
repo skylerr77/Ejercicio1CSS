@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+}
+#principal{
+   width: 800px;
+   height: 900px;
+   background-color:white;
+}
+h1{
+   text-align: left;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+#imagenes{
+    display: flex;
+}
+#imagen{
+    margin: 10px 10px;
+}
+@import url('https://fonts.googleapis.com/css2? family= Roboto & family= Roboto+Mono & display=swap');
+#bloque{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    margin: 20px 200px;
+    border: solid 4px orange;
+    text-align: center;
+    background-color: rgb(255, 230, 0);
+    letter-spacing: 0.2em;
+}
+#image{
+    margin: 1px 30px;
+}
