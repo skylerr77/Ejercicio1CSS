@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+.table{
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    height: 100px;
+}
+td{
+    border: 1px solid white;
+}
+.table tr:nth-child(1) td:nth-child(1){background-color: yellow;}
+.table tr:nth-child(1) td:nth-child(2){background-color: cadetblue;}
+.table tr:nth-child(1) td:nth-child(3){background-color: pink;}
+.table tr:nth-child(2) td:nth-child(1){background-color: brown;}
+.table tr:nth-child(2) td:nth-child(2){background-color: rebeccapurple;}
+.table tr:nth-child(2) td:nth-child(3){background-color: green;}
+.table tr:nth-child(3) td:nth-child(1){background-color: goldenrod;}
+.table tr:nth-child(3) td:nth-child(2){background-color: violet;}
+.table tr:nth-child(3) td:nth-child(3){background-color: tan;}
